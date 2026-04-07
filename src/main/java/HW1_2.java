@@ -8,7 +8,7 @@ class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 
-public class HW2 {
+public class HW1_2 {
     public static void main(String[] args) {
         ListNode head = null;
         Solution2 sol = new Solution2();
