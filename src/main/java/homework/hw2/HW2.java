@@ -1,4 +1,6 @@
-package HomeWork;
+package homework.hw2;
+
+import homework.hw2.Tree23;
 
 import java.io.File;
 import java.io.FileNotFoundException;

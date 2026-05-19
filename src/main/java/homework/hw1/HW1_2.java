@@ -1,4 +1,4 @@
-package HomeWork;
+package homework.hw1;
 
 class ListNode {
     int val;
